@@ -40,7 +40,7 @@ rawToChar(repositorio2$content) #convierte en string o serie de caracteries
 Nomina = fromJSON(rawToChar(repositorio2$content))
 names(Nomina)
 
-Nomina <- data.frame(Nomnina)
+
 
 
 #Grafico2
